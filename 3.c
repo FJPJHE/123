@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("�d�ضh/n");
+    printf("駱建逸/n");
 }
